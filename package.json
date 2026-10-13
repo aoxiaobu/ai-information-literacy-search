@@ -1,0 +1,10 @@
+{
+  "name": "ai-information-literacy-search",
+  "private": true,
+  "scripts": {
+    "test": "node --test tests/question-bank.test.cjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
